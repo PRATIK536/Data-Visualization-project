@@ -1,0 +1,6 @@
+
+Scanning Host: 127.0.0.1
+Start Time: 2025-09-13 23:30:40.911615
+
+port 135 is Open
+port 445 is Open
